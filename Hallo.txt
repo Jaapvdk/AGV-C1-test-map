@@ -1,8 +1,2 @@
-lijst
-hallo
-hoe gaat het
-goed, met jou?
-niet best
-niet goed nee
-niet best hoor
+test
 
