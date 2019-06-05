@@ -4,6 +4,11 @@ int boomDetect = HIGH;  // HIGH MEANS NO OBSTACLE
 int boomteller = 0;
 int tickdo = LOW;
 int timer = 0;
+/*
+ * kijken of git dit automaties goed doet
+ * 
+ */
+
  
 void setup() {
   pinMode(LED, OUTPUT);
