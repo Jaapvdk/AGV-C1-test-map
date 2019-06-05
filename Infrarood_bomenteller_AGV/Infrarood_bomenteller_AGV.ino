@@ -38,6 +38,6 @@ void loop() {
 }
 
 /*
- * test voor git
- * bram
- */
+ * verandering
+ * /
+*/
