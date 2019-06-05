@@ -1,5 +1,6 @@
 test
 
+
 test bram
 
 git status
@@ -7,3 +8,6 @@ git status
 git add (bestandsnaam.bestandtype)
 
 git commit -m "notitie"
+
+;lj;l
+
