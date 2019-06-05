@@ -31,7 +31,8 @@ void loop() {
       }
       delay(200);
 }
+
 /*
  * verandering
  * /
- */
+*/
