@@ -2,6 +2,7 @@ test
 
 
 test bram
+test 2 
 
 git status
 
